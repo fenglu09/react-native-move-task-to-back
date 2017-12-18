@@ -1,0 +1,22 @@
+{
+  "name": "react-native-move-task-to-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fenglu09/react-native-move-task-to-back.git"
+  },
+  "keywords": [
+    "MoveTastToBack"
+  ],
+  "author": "Jason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fenglu09/react-native-move-task-to-back/issues"
+  },
+  "homepage": "https://github.com/fenglu09/react-native-move-task-to-back#readme"
+}
